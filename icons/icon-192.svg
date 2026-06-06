@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c9a96e"/>
+      <stop offset="100%" stop-color="#8b6914"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f5f5"/>
+      <stop offset="100%" stop-color="#e0e0e0"/>
+    </linearGradient>
+  </defs>
+  <!-- Círculo branco de fundo -->
+  <circle cx="96" cy="96" r="92" fill="url(#bgGrad)" stroke="#ccc" stroke-width="2"/>
+  <!-- Brasão / Escudo -->
+  <path d="M96 20 L160 50 L160 100 Q160 140 96 172 Q32 140 32 100 L32 50 Z" fill="url(#shieldGrad)" stroke="#7a5c10" stroke-width="3"/>
+  <!-- Faixa diagonal decorativa -->
+  <path d="M56 78 L136 78 L136 82 Q136 88 96 88 Q56 88 56 82 Z" fill="#0f0f0f" opacity="0.15"/>
+  <!-- R$ - central -->
+  <text x="96" y="112" font-family="'DM Serif Display', 'Georgia', serif" font-size="58" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="central">R$</text>
+  <!-- CFN abaixo -->
+  <text x="96" y="148" font-family="'DM Mono', 'Courier New', monospace" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="4">CFN</text>
+</svg>
