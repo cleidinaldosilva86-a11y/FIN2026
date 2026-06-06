@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" fill="#0f0f0f" rx="28" ry="28"/>
+  <circle cx="96" cy="96" r="86" fill="none" stroke="#dcdcdc" stroke-width="2.5"/>
+  <text x="96" y="78" font-family="'DM Mono','Courier New',monospace" font-size="18" font-weight="bold" fill="#c9a96e" text-anchor="middle" letter-spacing="3">CFN</text>
+  <text x="96" y="122" font-family="'DM Serif Display','Georgia',serif" font-size="58" font-weight="bold" fill="#c9a96e" text-anchor="middle">R$</text>
+</svg>
